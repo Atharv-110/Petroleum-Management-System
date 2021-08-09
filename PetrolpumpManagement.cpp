@@ -2,6 +2,7 @@
                                        Date - 01/08/21
                         Project Name - Petrolpump Management System
                                     Author - Atharv Vani
+                                Co Author - Priyanshi Agrawal
                                         C++ - Language
 */
 #include <iostream>
